@@ -1,16 +1,14 @@
-### Hi there 👋
+###Greetings, visitor(s).
+I'm Keyyard, a PixelPoly Digital staff, producing contents for Minecraft Bedrock Engine/Edition. You can find my works available at the Official Minecraft Marketplace & MCPEDL.
 
-<!--
-**Keyyard/keyyard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm currently learning C++, JavaScript, HTML 📚.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me at:
+(Discord Server)[https://discord.gg/s2VfQr69uz]
+
+(Twitter)[https://twitter.com/keyyard]
+
+(YouTube)[https://youtube.com/c/Keyyard]
+
+Pronouns: He/him 🤵🏻.
