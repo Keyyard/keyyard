@@ -1,10 +1,10 @@
 ![keyyards banner 2](https://user-images.githubusercontent.com/84187238/122343106-897e3000-cf6f-11eb-81af-3ceaeb1a0042.png)
 
 ### Greetings, visitor(s).
-<h1 align="center">I'm Keyyard, a PixelPoly Digital staff, producing contents for Minecraft Bedrock Engine/Edition. You can find my works available at the Official Minecraft Marketplace & MCPEDL. </h1>
+<h1 align="center">I'm Keyyard, a PixelPoly Digital staff</h1>
 - 👦🏻 Pronounces **He/Him**
 
-- 🔭 I’m currently working on **Minecraft Marketplace**
+- 🔭 I'm currently producing contents for Minecraft Bedrock Engine/Edition. You can find my works available at the Official Minecraft Marketplace & MCPEDL.
 
 - 📫 How to reach me **keyyard8888@gmail.com**
 
