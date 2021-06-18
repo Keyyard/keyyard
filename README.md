@@ -5,7 +5,7 @@
 
 - 👦🏻 Pronounces **He/Him**
 
-- 🔭 I'm currently producing contents for Minecraft Bedrock Engine/Edition. You can find my works available at the Official Minecraft Marketplace & MCPEDL.
+- 🔭 I'm currently producing contents for **Minecraft Bedrock Engine/Edition**. You can find my works available at the **Official Minecraft Marketplace & MCPEDL**.
 
 - 📫 How to reach me **keyyard8888@gmail.com**
 
