@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **keyyard@pixelpoly.co**
 - 📫 How to reach me **contact@keyyard.studio**
-- - 📫 How to reach me **keyyard8888@gmail.com**
+- 📫 How to reach me **keyyard8888@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
