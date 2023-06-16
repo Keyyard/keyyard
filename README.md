@@ -3,11 +3,10 @@
 ### Greetings, visitor(s).
 <h1 align="center">I'm Keyyard, an Official Minecraft Partner!</h1>
 
-- 🔭 I'm currently producing contents for **Minecraft Bedrock Engine/Edition**. You can find my works available at the **Official Minecraft Marketplace & MCPEDL**.
+- 🔭 I have been developing contents for **Minecraft Bedrock Engine/Edition** since 2019. Most of my works are add-on packages. You can see them appears on **Official Minecraft Marketplace**, MCPEDL, MCADDONS by Kayen Works,Modbay and Social Medias.
 
-- 📫 How to reach me **keyyard@pixelpoly.co**
-- 📫 How to reach me **contact@keyyard.studio**
-- 📫 How to reach me **keyyard8888@gmail.com**
+- 📫 How to reach me?: **keyyard8888@gmail.com** (priority)
+- 📫 How to reach me?: **contact@keyyard.studio**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
