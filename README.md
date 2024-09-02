@@ -16,6 +16,6 @@
 <a href="https://discord.gg/https://discord.gg/s2VfQr69uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/s2VfQr69uz" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,bootstrap,c,cs,cpp,express,flask,git,github,godot,jquery,md,mongodb,npm,py,react,sqlite,tailwind,threejs,ts,unity,vite,vscode)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,bootstrap,c,cs,cpp,express,flask,git,github,godot,jquery,md,mongodb,npm,py,react,sqlite,tailwind,threejs,ts,unity,vite,vscode)](https://skillicons.dev)
 ![](https://komarev.com/ghpvc/?username=keyyard)
