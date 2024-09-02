@@ -1,13 +1,10 @@
-![keyyards banner 2](https://user-images.githubusercontent.com/84187238/122343106-897e3000-cf6f-11eb-81af-3ceaeb1a0042.png)
-
 ### Greetings, visitor(s).
 <h1 align="center">I'm Keyyard, an Official Minecraft Partner!</h1>
 
 - 🔭 I have been developing contents for **Minecraft Bedrock Engine/Edition** since 2019. Most of my works are add-on packages. You can see them appears on **Official Minecraft Marketplace**, MCPEDL, MCADDONS by Kayen Works,Modbay and Social Medias.
 - 🌱 I’m currently learning C#, Python, and web development to expand my skill set.
 - 👯 I’m looking to collaborate on projects that challenge my coding abilities and creativity.
-- 📫 How to reach me?: **keyyard8888@gmail.com** (priority)
-- 📫 How to reach me?: **contact@keyyard.studio**
+- 📫 How to reach me?: **keyyard8888@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
