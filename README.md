@@ -14,5 +14,5 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,bootstrap,c,cs,cpp,express,flask,github,godot,md,mongodb,npm,py,ps,react,sqlite,tailwind,threejs,ts,unity,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,bootstrap,cs,express,flask,github,godot,md,mongodb,npm,py,ps,react,sqlite,tailwind,threejs,ts,unity,vite,vscode)](https://skillicons.dev)
 ![](https://komarev.com/ghpvc/?username=keyyard)
