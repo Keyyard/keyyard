@@ -1,6 +1,6 @@
-### Greetings, visitor(s). 
-
 ![](https://komarev.com/ghpvc/?username=keyyard)
+
+### Greetings, visitor(s). 
 
 <h1 align="center">I'm Keyyard, an Official Minecraft Partner!</h1>
 
