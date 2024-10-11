@@ -16,3 +16,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,blender,bootstrap,cs,express,flask,github,godot,md,mongodb,npm,py,ps,react,sqlite,tailwind,threejs,ts,unity,vite,vscode)](https://skillicons.dev)
 ![](https://komarev.com/ghpvc/?username=keyyard)
+
+![](https://raw.githubusercontent.com/keyyard/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/keyyard/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/keyyard/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/keyyard/github-stats/master/generated/languages.svg#gh-light-mode-only)
