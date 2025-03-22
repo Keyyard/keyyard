@@ -5,7 +5,7 @@
 <h1 align="center">I'm Keyyard, an Official Minecraft Partner!</h1>
 
 ## 🏗 About Me
-- 🔨 **Developer specializing in Web, Native, and Game Development**  
+- 🔨 **Developer specializing in Web, Native, and Minecraft Add-on Development**  
 - 🎮 **Minecraft Add-on Developer (Bedrock Engine)** since **2019**  
 - 🚀 Passionate about **performance, optimizations, and scalable systems**  
 - 🤝 Open to collaborations on **challenging projects that push technical and creative limits**  
