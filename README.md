@@ -10,7 +10,7 @@
 - 🚀 Passionate about **performance, optimizations, and scalable systems**  
 - 🤝 Open to collaborations on **challenging projects that push technical and creative limits**  
 - 🌍 **Portfolio:** [keyyard.xyz](https://keyyard.xyz)  
-- 📫 **Contact:** keyyard8888@gmail.com  
+- 📫 **Contact:** contact@keyyard.xyz | keyyard8888@gmail.com
 
 ## 🚀 Tech Stack  
 ### **Web Development**  
