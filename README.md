@@ -31,8 +31,9 @@
 - Minecraft Add-on Development (Bedrock Engine)  
 
 ## 📊 GitHub Stats  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=keyyard" alt="GitHub Streak" /></a>
 <div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=keyyard" alt="GitHub Streak" /></a>
+  <br />
   <img src="https://raw.githubusercontent.com/keyyard/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/keyyard/github-stats/master/generated/overview.svg#gh-light-mode-only" />
   <br />
