@@ -42,13 +42,14 @@
 </div>
 
 ## 🔗 Connect with Me  
-<p align="left"><a href="https://twitter.com/keyyard" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="Twitter" height="30" width="40" />
-</a>
-<a href="https://www.youtube.com/c/keyyard" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" height="30" width="40" />
-</a>
-<a href="https://discord.gg/s2VfQr69uz" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" height="30" width="40" />
-</a>
+<p align="left">
+  <a href="https://x/keyyard" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://www.youtube.com/c/keyyard" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-ff0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
+  </a>
+  <a href="https://discord.gg/s2VfQr69uz" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+  </a>
 </p>
