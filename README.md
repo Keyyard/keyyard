@@ -40,16 +40,3 @@
   <img src="https://raw.githubusercontent.com/keyyard/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/keyyard/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </div>
-
-## 🔗 Connect with Me  
-<p align="left">
-  <a href="https://x/keyyard" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://www.youtube.com/c/keyyard" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-ff0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube" />
-  </a>
-  <a href="https://discord.gg/s2VfQr69uz" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
-  </a>
-</p>
