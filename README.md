@@ -44,5 +44,5 @@
 ## 🏆Trophies
 
 <div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=keyyard&no-frame=true&no-bg=true&rank=-C,-B&row=2&column=3&margin=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=keyyard&no-frame=true&no-bg=true&rank=-C,-B&row=2&column=3&margin-w=15" />
 </div>
