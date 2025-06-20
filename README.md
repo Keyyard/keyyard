@@ -40,6 +40,6 @@
   <img src="https://raw.githubusercontent.com/keyyard/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/keyyard/github-stats/master/generated/languages.svg#gh-light-mode-only" />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=keyyard&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,secret,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=keyyard&no-frame=true&no-bg=true&rank=SSS,SS,S,AAA,AA,A,secret,B&row=2&column=3" />
 </div>
 
