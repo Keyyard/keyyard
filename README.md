@@ -39,7 +39,7 @@
   <br />
   <img src="https://raw.githubusercontent.com/keyyard/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/keyyard/github-stats/master/generated/languages.svg#gh-light-mode-only" />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=keyyard&no-frame=" />
 </div>
-
-[![trophy]([honedark](https://github-profile-trophy.vercel.app/?username=keyyard&no-frame=true))](https://github.com/ryo-ma/github-profile-trophy)
 
