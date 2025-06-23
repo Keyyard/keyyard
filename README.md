@@ -2,7 +2,7 @@
 
 # 👋 Greetings, Visitor(s)!
 
-<h1 align="center">I'm Keyyard, an Official Microsoft - Mnecraft Partner!</h1>
+<h1 align="center">I'm Keyyard, an Official Microsoft - Minecraft Partner!</h1>
 
 ## 🏗 About Me
 - 🔨 **Developer specializing in Web, Native, and Minecraft Add-on Development**  
