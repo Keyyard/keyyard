@@ -6,7 +6,7 @@
 
 ## 🏗 About Me
 - 🔨 **Developer specializing in Web, Native, and Minecraft Add-on Development**  
-- 🎮 **Minecraft Add-on Developer (Bedrock Engine)** since **2019**  
+- 🎮 **Minecraft Add-on Developer (Bedrock Engine)** since **2018**  
 - 🚀 Passionate about **performance, optimizations, and scalable systems**  
 - 🤝 Open to collaborations on **challenging projects that push technical and creative limits**  
 - 🌍 **Portfolio:** [keyyard.xyz](https://keyyard.xyz)  
