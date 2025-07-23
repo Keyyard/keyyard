@@ -12,23 +12,37 @@
 - 🌍 **Official Website - Portfolio:** [keyyard.xyz](https://keyyard.xyz)  
 - 📫 **Contact:** contact@keyyard.xyz | keyyard8888@gmail.com
 - ✍️ **Blogs:** [blogs.keyyard.xyz](https://blogs.keyyard.xyz)
-## 🚀 Tech Stack  
-### **Web Development**  
-- **Frontend:** Vanilla JavaScript, React  
-- **Backend:** FastAPI, Flask, Next.js, Prisma ORM  
-- **Databases:** PostgreSQL, SQLite
 
-### **Styling**  
-- TailwindCSS, Bootstrap  
+## 🚀 Tech Stack
 
-### **Native Development**  
-- React Native, Expo, Lynx.JS  
+### **Programming Languages**
+- TypeScript
+- JavaScript
+- Python
 
-### **Programming Languages**  
-- TypeScript, JavaScript, Python  
+### **Web Development**
+- **Frontend Frameworks:** React, Next.js
+- **Core:** HTML5, CSS3, Vanilla JavaScript
+- **Styling:** TailwindCSS, Bootstrap
 
-### **Game Development**  
-- Minecraft Add-on Development (Bedrock Engine)  
+### **Backend & Database**
+- **API Frameworks:** FastAPI, Flask, Next.js
+- **Database:** PostgreSQL, SQLite, Prisma ORM
+- **Authentication:** OAuth, JWT, Clerk
+
+### **Native & Mobile Development**
+- React Native
+- Expo
+- Lynx.JS
+
+### **Game Development**
+- Minecraft Bedrock: Add-on Development, Scripting API
+
+### **Development Tools & Workflow**
+- Git & GitHub
+- VS Code Extensions
+- CLI Development
+- npm / Package Management
 
 ## 📊 GitHub Stats  
 <div align="center">
