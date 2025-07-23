@@ -9,14 +9,14 @@
 - 🎮 **Minecraft Add-on Developer (Bedrock Engine)** since **2018**  
 - 🚀 Passionate about **performance, optimizations, and scalable systems**  
 - 🤝 Open to collaborations on **challenging projects that push technical and creative limits**  
-- 🌍 **Portfolio:** [keyyard.xyz](https://keyyard.xyz)  
+- 🌍 **Official Website - Portfolio:** [keyyard.xyz](https://keyyard.xyz)  
 - 📫 **Contact:** contact@keyyard.xyz | keyyard8888@gmail.com
-
+- ✍️ **Blogs:** [blogs.keyyard.xyz](https://blogs.keyyard.xyz)
 ## 🚀 Tech Stack  
 ### **Web Development**  
 - **Frontend:** Vanilla JavaScript, React  
 - **Backend:** FastAPI, Flask, Next.js, Prisma ORM  
-- **Databases:** PostgreSQL, SQLite, JSON  
+- **Databases:** PostgreSQL, SQLite
 
 ### **Styling**  
 - TailwindCSS, Bootstrap  
