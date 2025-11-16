@@ -3,7 +3,7 @@
 # 👋 Greetings, Visitor(s)!
 
 <h1 align="center">I'm Keyyard, an Official Microsoft - Minecraft Partner!</h1>
-I worked in the official Cut The Rope x Minecraft collaboration of Developer 'Mush Co.',
+I work as programmer in the official Cut The Rope x Minecraft collaboration of Developer 'Mush Co.',
 
 for Publisher / Partner Microsoft / Mojang / ZeptoLab
 
