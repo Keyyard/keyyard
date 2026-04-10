@@ -8,6 +8,7 @@ I worked as programmer in the official Cut The Rope x Minecraft collaboration of
 for Publisher / Partner Microsoft / Mojang / ZeptoLab
 
 ## 🏗 About Me
+- **Founder** of [Productivitism](https://productivitism.com)
 - 🔨 **Developer specializing in Web, Native, and Minecraft Add-on Development**  
 - 🎮 **Minecraft Add-on Developer (Bedrock Engine)** since **2018**  
 - 🚀 Passionate about **performance, optimizations, and scalable systems**  
