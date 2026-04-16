@@ -54,7 +54,7 @@ Git · VS Code · CLI · npm
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=keyyard&theme=transparent" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=keyyard" alt="GitHub Streak" />
   </a>
   <br /><br />
   <img src="https://raw.githubusercontent.com/keyyard/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
