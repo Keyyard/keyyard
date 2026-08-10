@@ -66,14 +66,6 @@ Git · VS Code · CLI · npm
 
 ---
 
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keyyard&no-frame=true&no-bg=true&rank=-C,-B&row=2&column=3&margin-w=15&theme=onestar" />
-</div>
-
----
-
 <p align="center">
   <sub>Open to collaborations on challenging projects that push technical and creative limits.</sub>
 </p>
