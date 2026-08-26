@@ -7,7 +7,7 @@
 <h1 align="center">Hey, I'm Keyyard 👋</h1>
 
 <p align="center">
-  <strong>Minecraft Bedrock Developer · Full-Stack Engineer · Microsoft × Mojang Partner</strong>
+  <strong>Minecraft Bedrock Developer · Full-Stack Engineer</strong>
 </p>
 
 <p align="center">
